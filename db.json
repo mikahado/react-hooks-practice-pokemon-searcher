@@ -1340,6 +1340,24 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "HAHAHA",
+      "hp": "5435",
+      "sprites": {
+        "front": "https://i.ytimg.com/vi/tc3eApKVaaw/maxresdefault.jpg",
+        "back": "https://i.ytimg.com/vi/tc3eApKVaaw/maxresdefault.jpg"
+      },
+      "id": 151
+    },
+    {
+      "name": "HAHAHAHAHAHAHAHAHA",
+      "hp": "2",
+      "sprites": {
+        "front": "https://i.ytimg.com/vi/tc3eApKVaaw/maxresdefault.jpg",
+        "back": "https://i.ytimg.com/vi/tc3eApKVaaw/maxresdefault.jpg"
+      },
+      "id": 152
     }
   ]
 }
